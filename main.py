@@ -5,10 +5,6 @@ import asyncio
 import config
 from core.loader import load_cogs
 
-# Controllo sicurezza
-if not config.TOKEN:
-    raise ValueError("TOKEN mancante! Controlla le variabili Railway.")
-
 intents = discord.Intents.default()
 intents.message_content = True
 
@@ -19,7 +15,7 @@ bot = commands.Bot(
 
 @bot.event
 async def on_ready():
-    print(f"✅ Bot online: {bot.user} (ID: {bot.user.id})")
+    print(f"Bot online: {bot.user}")
 
 async def main():
     async with bot:
