@@ -1,0 +1,26 @@
+{
+    "Latte in polvere": {
+        "quantita": 3,
+        "massimo": 10
+    },
+    "Formaggio": {
+        "quantita": 2,
+        "massimo": 10
+    },
+    "Formaggio di capra": {
+        "quantita": 1,
+        "massimo": 10
+    },
+    "Fiocchi di latte": {
+        "quantita": 2,
+        "massimo": 10
+    },
+    "Yogurt": {
+        "quantita": 3,
+        "massimo": 10
+    },
+    "Mozzarella": {
+        "quantita": 2,
+        "massimo": 10
+    }
+}

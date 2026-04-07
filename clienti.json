@@ -1,0 +1,38 @@
+{
+    "INI": {
+        "consegnati": 0,
+        "carico": "Mozzarella",
+        "viaggio": "Napoli (Azienda Tesoro Gustoso) -> Suzzara (Azienda INI)",
+        "camion": 6
+    },
+    "Polaris Lines": {
+        "consegnati": 0,
+        "carico": "Formaggio di capra",
+        "viaggio": "Napoli (Azienda Tesoro Gustoso) -> Hirtshals (Azienda Polaris Lines)",
+        "camion": 2
+    },
+    "Noorfood": {
+        "consegnati": 0,
+        "carico": "Formaggio",
+        "viaggio": "C C",
+        "camion": 5
+    },
+    "Brawen Transport": {
+        "consegnati": 0,
+        "carico": "Yogurt",
+        "viaggio": " Napoli (Azienda Tesoro Gustoso) -> Bacău (Azienda Brawen Transport)",
+        "camion": 5
+    },
+    "Karfoor": {
+        "consegnati": 0,
+        "carico": " Fiocchi di latte",
+        "viaggio": " Napoli (Azienda Tesoro Gustoso) -> Lublino (Azienda Karfoor)",
+        "camion": 5
+    },
+    "Cesta": {
+        "consegnati": 0,
+        "carico": "Latte in polvere",
+        "viaggio": " Napoli (Azienda Tesoro Gustoso) -> Malaga (Azienda Cesta)",
+        "camion": 5
+    }
+}

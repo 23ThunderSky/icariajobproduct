@@ -1,0 +1,16 @@
+{
+    "a": {
+        "consegnati": 2,
+        "carico": "a",
+        "viaggio": "a",
+        "porto": "a",
+        "camion": 20
+    },
+    "Milano - CesareSupermercato": {
+        "consegnati": 0,
+        "carico": "Carote",
+        "viaggio": "Livorno (TerminalContainer)",
+        "porto": "Livorno - Terminal Container",
+        "camion": 5
+    }
+}
